@@ -1,0 +1,13 @@
+tipo:Gasolina 3:25000:25.0
+tipo:Gasolina 2:15000:15.0
+tipo:Gasolina 4:12500:15.0
+tipo:Gasolina 1:10000:20.0
+surtidor:Jairo:Gasolina 3:0.0:Gasolina 2:0.0:Gasolina 4:0.0:Gasolina 1:0.0
+surtidor:Pedro:Gasolina 3:0.0:Gasolina 2:0.0:Gasolina 4:0.0:Gasolina 1:0.0
+surtidor:Juan:Gasolina 3:0.0:Gasolina 2:0.0:Gasolina 4:0.0:Gasolina 1:0.0
+surtidor:Jacobo:Gasolina 3:0.0:Gasolina 2:0.0:Gasolina 4:0.0:Gasolina 1:0.0
+empleado:Carla:0
+empleado:Pedro:0
+empleado:Juan:0
+empleado:Jacobo:0
+empleado:Jairo:0
